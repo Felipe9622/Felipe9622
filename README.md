@@ -3,7 +3,7 @@
 <p align="left"> 
 <h1>Desenvolvedor back-end 👨🏽‍💻</h1>
   <strong>Apaixonado por tecnologia e procurando novos desafios.</strong>📚💪🏾<br>
-  Procurando realocação no mercado de trabalho como desenvolvedor back-end junior, atuo em trabalhos freelance com outros desenvolvedores mais experientes me     aprimorando e adquirindo experiencia. Desenvolvendo na linguagem Python (desde 2019) me especializando no estudo e aprimoramento na linguagem. Realizando pequenos   projetos para estudo
+  Procurando realocação no mercado de trabalho como desenvolvedor back-end junior, atuo em trabalhos freelance com outros desenvolvedores mais experientes me     aprimorando e adquirindo experiencia. Desenvolvendo na linguagem Python (desde 2019) me especializando no estudo e aprimoramento na linguagem. Realizando pequenos   projetos para estudo.
 </p>
 
 ## **Ferramentas:**  
