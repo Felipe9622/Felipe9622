@@ -3,7 +3,7 @@
 <p align="left"> 
 <h1>Desenvolvedor back-end 👨🏽‍💻</h1>
   <strong>Apaixonado por tecnologia e procurando novos desafios.</strong>📚💪🏾<br>
-  Procurando realocação no mercado de trabalho como desenvolvedor back-end junior, atuo em trabalhos freelance com outros desenvolvedores mais experientes,       aprimorando e adquirindo experiencia. Desenvolvendo na linguagem Python (desde 2019) me especializando no estudo e aprimoramento na linguagem. Realizando pequenos   projetos para estudo.
+Estudando desde 2019 linguagem Python e HTML5 e realizando pequenos projetos. Em 2021 comecei a participar de  projetos junto a outros desenvolvedores utilizando frameworks django,wagtail com o maior participação tanto na parte back-end e front-end em um projeto para empresa ABEU, ao longo do ano continuei estudando sqlite3 e me aprofundando na biblioteca scrapy beautfulsoup3. Atualmente continuo estudando framework me aventurando na criação de outros projetos solos, utilizando framework flask e banco de dados postgresql, realizo alguns trabalhos freelances na criação de ecommerce e blogs utilizando frameworks django, procuro oportunidade de atuar como desenvolvedor junior.
 </p>
 
 ## **Ferramentas:**  
